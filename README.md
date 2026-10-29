@@ -1,4 +1,4 @@
-### 📺 Demo VideO
+- **Demo Video:** [Watch the Walkthrough] *(or drag & drop your .mp4 file into this section on GitHub)*
 
-[![CampusFix Demo Video] (https://github.com/user-attachments/assets/e65809db-a56c-405e-a9e7-3247af16302c0)
+https://github.com/user-attachments/assets/fd3b67df-7301-45da-9377-8e83d738ceb2
 
